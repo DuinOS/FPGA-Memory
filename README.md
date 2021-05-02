@@ -12,6 +12,7 @@ Neste repositóris quem sabe consigo listar alguns exemplos que me deparo por ai
 * https://github.com/yasir-javed/bram_xilinxise
 * https://github.com/yasir-javed/vga_bram
 * https://github.com/damdoy/ice40_ultraplus_examples/tree/e659ce4d31c1f36d55c6dca89953fa8a7bf7be52/bram
+* https://github.com/paulscherrerinstitute/vivadoIP_data_rec
 
 ## Outros EStudos
 
