@@ -8,12 +8,15 @@ Neste repositóris quem sabe consigo listar alguns exemplos que me deparo por ai
 
 ## Referências:
 
+* https://github.com/Megamemnon/bram/blob/master/bram.v
 * https://projectf.io/posts/fpga-memory-types/
 * https://github.com/yasir-javed/bram_xilinxise
 * https://github.com/yasir-javed/vga_bram
 * https://github.com/damdoy/ice40_ultraplus_examples/tree/e659ce4d31c1f36d55c6dca89953fa8a7bf7be52/bram
 * https://github.com/paulscherrerinstitute/vivadoIP_data_rec
+* https://github.com/Chun-Feng/Block_RAM_Module_FPGAs
 
-## Outros EStudos
+## Outros Estudos
 
 * https://github.com/behzadsalami/FPGA-BRAMs-Undervoltig-Study
+* https://github.com/dpretet/meduram
