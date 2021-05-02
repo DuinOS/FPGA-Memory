@@ -9,3 +9,4 @@ Neste repositóris quem sabe consigo listar alguns exemplos que me deparo por ai
 * Referências:
 
 * https://projectf.io/posts/fpga-memory-types/
+* https://github.com/yasir-javed/bram_xilinxise
