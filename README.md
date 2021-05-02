@@ -10,3 +10,4 @@ Neste repositóris quem sabe consigo listar alguns exemplos que me deparo por ai
 
 * https://projectf.io/posts/fpga-memory-types/
 * https://github.com/yasir-javed/bram_xilinxise
+* https://github.com/yasir-javed/vga_bram
