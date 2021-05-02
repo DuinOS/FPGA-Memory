@@ -6,8 +6,13 @@ Alguns se engano, quando dizem que não há um dialeto Verilog para cada chip, s
 
 Neste repositóris quem sabe consigo listar alguns exemplos que me deparo por ai.
 
-* Referências:
+## Referências:
 
 * https://projectf.io/posts/fpga-memory-types/
 * https://github.com/yasir-javed/bram_xilinxise
 * https://github.com/yasir-javed/vga_bram
+* https://github.com/damdoy/ice40_ultraplus_examples/tree/e659ce4d31c1f36d55c6dca89953fa8a7bf7be52/bram
+
+## Outros EStudos
+
+* https://github.com/behzadsalami/FPGA-BRAMs-Undervoltig-Study
