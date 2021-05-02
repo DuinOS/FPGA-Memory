@@ -8,6 +8,7 @@ Neste repositóris quem sabe consigo listar alguns exemplos que me deparo por ai
 
 ## Referências:
 
+* https://github.com/rbshi/swin_bram
 * https://github.com/Megamemnon/bram/blob/master/bram.v
 * https://projectf.io/posts/fpga-memory-types/
 * https://github.com/yasir-javed/bram_xilinxise
